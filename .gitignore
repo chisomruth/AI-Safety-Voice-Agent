@@ -1,0 +1,15 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.env
+*.venv
+amazonvoice/
+.vscode/
+build/
+*.whl
+*.html
+Dockerfile
+test.html

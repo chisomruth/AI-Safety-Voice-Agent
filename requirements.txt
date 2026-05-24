@@ -1,0 +1,12 @@
+pipecat-ai[google,silero,websocket]
+pydantic-settings
+fastapi
+uvicorn[standard]
+websockets
+boto3
+python-dotenv
+loguru
+langchain-google-vertexai
+fastmcp
+twilio
+requests

@@ -46,7 +46,7 @@ async def send_sms(params: FunctionCallParams):
     try:
         client = Client(sid, auth_token)
         sms = client.api.messages.create(
-            to= +2348101997908,
+            to= +23481#######8,
             from_=from_phone,
             body=message,
         )
